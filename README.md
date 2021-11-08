@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/140832305-da4df414-0d65-48c3-93b0-4f2943c34312.png">
+ <img src="https://user-images.githubusercontent.com/45159366/140835334-44308718-d96d-4eaa-b2a1-c74d64910e67.png">
   <br />
   VHDL Guide
 </h1>
