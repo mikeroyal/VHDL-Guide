@@ -95,7 +95,7 @@ Register-transfer level (RTL) Hardware Design with VHDL
 [Getting Started with FPGA Programming with VHDL | Pluralsight](https://www.pluralsight.com/courses/fpga-vhdl-programming-getting-started)
 
 
-# VDHL Tools
+# VHDL Tools
 [Back to the Top](https://github.com/mikeroyal/VHDL-Guide#table-of-contents)
 
 [VHDLweb](https://vhdlweb.com) is an online VHDL simulator and coding exercise tool. Anyone is welcome to view and work through the problems, but at present your work will not be saved beyond a single browser session.
